@@ -1,2 +1,3 @@
 principle:
     app: working
+    getAllStudent: lb://localhost:8787/teacher/getAllStudent
