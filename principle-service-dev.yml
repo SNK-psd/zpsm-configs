@@ -1,3 +1,2 @@
 principle-service:
-    app: "working"
-    getAllStudent: "http://localhost:8787/teacher/getAllStudent"
+    teacher-service: "http://teacher-service/teacher"
