@@ -1,2 +1,2 @@
 principle-service:
-    teacher-service: "http://teacher-service/teacher"
+    teacher_service: "http://teacher-service/teacher"
